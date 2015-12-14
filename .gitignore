@@ -38,3 +38,10 @@
 *.i*86
 *.x86_64
 *.hex
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
